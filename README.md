@@ -13,3 +13,5 @@ ____
 
 2. Если проблемы с питоном, то нужно установить последнюю версию питона с [офф сайта](https://www.python.org/downloads/)
 
+3. Вебп конвертер ? ha-ha `npm install webp-converter@2.2.3 --save-dev`
+
